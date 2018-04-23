@@ -36,6 +36,6 @@ Non-trainable params: 0
 
 Done Training: 
 Final Training Accuracy:  0.6948148870401701
-Final Validation Accuracy:  0.4768373401831019
+Final Validation Accuracy:  0.5468373401831019
 3589/3589 [==============================] - 1s 357us/step
-Evaluation Accuracy:  0.48258567856161266
+Evaluation Accuracy:  0.54258567856161266
